@@ -14,11 +14,11 @@ global.ownernomer = "2348187637779"
 global.ownername = "ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑"
 global.ytname = "YT: paskito"
 global.socialm = "GitHub: paskito002"
-global.location = "Nigeria,Cross River,Calabar"
+global.location = "Nigeria, Lagos, badagry"
 
-global.ownernumber = '2348187637779'  //creator number
+global.ownernumber = '2348112312350'  //creator number
 global.ownername = 'ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑' //owner name
-global.botname = 'S҉ T҉ I҉ N҉ G҉ E҉ R҉- V҉ 2҉' //name of the bot
+global.botname = 'N̷̷i̷̷g̷̷h̷̷t̷̷m̷a̷̷r̷̷e̷ ̷K̷̷i̷̷n̷̷g̷💀❌💀' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
